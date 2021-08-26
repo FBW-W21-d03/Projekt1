@@ -1,5 +1,5 @@
 # Projekt1
 Sharfuddin Ahmed
 Bangladesh
-50j
+45j
 Tandoori
